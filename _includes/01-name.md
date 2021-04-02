@@ -1,4 +1,2 @@
-#
-Tuvy Le
-##
-I ❤️ true crime 🔪  and sea otters 🦦!
+# Tuvy Le
+## I ❤️ true crime 🔪  and sea otters 🦦!
