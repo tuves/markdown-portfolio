@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+* I _love_ building relationships and making meaningful connections.
+* I believe in course correcting--**nothing is permanent**, only death.
+* Community? You mean _*CommuniTEAM*_!
