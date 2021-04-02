@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+* Food
+  * 🥖
+  * 🍟
+  * 🍣
+1. Fun
+  * 🔪 📺
+  * 🏋️‍♀️
+  * 🎙️
